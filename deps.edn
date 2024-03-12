@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        org.antlr/antlr4-runtime {:mvn/version "4.13.1"}
+        org.antlr/antlr4 {:mvn/version "4.13.1"}
+        org.clojure/tools.logging {:mvn/version "1.2.4"}}}
